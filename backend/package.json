@@ -1,0 +1,11 @@
+{
+  "name": "story-be",
+  "version": "1.0.0",
+  "description": "backend for bedtime story chat app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vu Pham",
+  "license": "ISC"
+}
